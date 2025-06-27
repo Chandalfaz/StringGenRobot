@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="sᴏᴜʀᴄᴇ", url="https://github.com/AnonymousX1025/StringGenBot"
+                text="ᴄʜᴀɴɴᴇʟ", url="https://t.me/Chand_Allfaz"
             ),
         ],
     ]
@@ -18,8 +18,8 @@ keyboard = InlineKeyboardMarkup(
 gen_key = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍ v1", callback_data="pyrogram1"),
-            InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍ v2", callback_data="pyrogram"),
+            InlineKeyboardButton(text="ᴘʏʀᴏɢʀᴀᴍ v1", callback_data="pyrogram1"),
+            InlineKeyboardButton(text="ᴘʏʀᴏɢʀᴀᴍ v2", callback_data="pyrogram"),
         ],
         [InlineKeyboardButton(text="ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon")],
     ]
